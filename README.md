@@ -3,7 +3,7 @@ Official website of Raksha E Services – Digital solutions provider from Jodhpu
 
 <p align="center">
   <!-- Replace with your logo -->
-  !--<img src="assets/raksha-logo.png" alt="Raksha E Services Logo" width="200"/>---->
+  <!--<img src="assets/raksha-logo.png" alt="Raksha E Services Logo" width="200"/>---->
   <img width="400" height="80" alt="about-meta" src="https://github.com/user-attachments/assets/e02f9af2-b478-46f5-93d3-7c1e2beea221" />
 
 </p>
