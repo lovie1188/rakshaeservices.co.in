@@ -1,21 +1,48 @@
 # rakshaeservices.co.in
 Official website of Raksha E Services – Digital solutions provider from Jodhpur, offering e-Governance support, web &amp; app development, IT consulting, and business services.
 
-# 🌐 Raksha E Services
+<p align="center">
+  <!-- Replace with your logo -->
+  <img src="assets/raksha-logo.png" alt="Raksha E Services Logo" width="200"/>
+</p>
 
-Official website of **Raksha E Services** – Your trusted digital services partner in Jodhpur.
+<h1 align="center">🌐 Raksha E Services</h1>
 
-## 🚀 What We Do
-- 🏛️ E-Governance & Online Services  
-- 📄 Form Filling, CSC / E-Mitra Support  
-- 💻 Web & Android App Development  
-- 🛠️ IT Consulting & Outsourcing  
-- 📈 Business Strategy & New Ventures  
+<p align="center">
+Official website of <b>Raksha E Services</b> – Your trusted digital services partner in Jodhpur.
+</p>
+
+---
+
+## 🚀 Our Services
+- 🏛️ **E-Governance & Online Services** – Smooth handling of government applications & citizen services  
+- 📄 **CSC / E-Mitra & Form Filling Support** – Reliable assistance for online documentation  
+- 💻 **Web & Android App Development** – Custom, modern, and scalable solutions  
+- 🛠️ **IT Consulting & Outsourcing** – End-to-end IT support for startups & enterprises  
+- 📈 **Business Strategy & New Ventures** – Guiding entrepreneurs from idea to execution  
+
+---
 
 ## 📍 About Us
-Located in Jodhpur near Mehrangarh Fort, Raksha E Services provides end-to-end digital solutions for individuals, businesses, and startups.
+Raksha E Services is a **Jodhpur-based digital solutions provider**, located near Mehrangarh Fort.  
+We combine **local expertise** with **modern technology** to empower citizens, businesses, and startups.
+
+---
 
 ## 📬 Contact
 - 🌍 Website: [rakshaeservices.co.in](https://rakshaeservices.co.in)  
 - 📧 Email: info@rakshaeservices.co.in  
 - 📍 Location: Jodhpur, Rajasthan, India  
+
+---
+
+## 🏷️ Repo Info
+This repository contains the official codebase for the Raksha E Services website.  
+Feel free to fork, star ⭐, or contribute.
+
+---
+
+<p align="center">
+Made with ❤️ by <b>Raksha E Services</b>
+</p>
+
